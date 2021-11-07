@@ -1,0 +1,16 @@
+#test{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#titre{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
